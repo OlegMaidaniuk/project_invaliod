@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(45deg,purple,deeppink);
+
+}
+
+h3{
+    background: silver;
+
+}
+h2{
+    background: wheat;
+
+}
+img {
+    width: 400px;
+    /*align-items: center;*/
+    display: flex;
+    /*box-sizing: border-box;*/
+    flex-direction: row;
+}
+h1{
+    text-align: center;
+    background: linear-gradient(21deg,blue,rebeccapurple);
+}
